@@ -1,4 +1,4 @@
-puts "Hello World"
+#puts "Hello World"
 
 class Pet
 	attr_accessor :kind
